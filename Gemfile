@@ -59,3 +59,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rails-controller-testing'
 gem 'bcrypt' , '3.1.13'
+gem 'faker', '~> 3.1', '>= 3.1.1'
+gem "will_paginate", "~> 3.3"
+gem 'bootstrap-will_paginate', '1.0.0'
